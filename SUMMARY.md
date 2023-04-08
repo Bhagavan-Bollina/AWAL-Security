@@ -2,8 +2,17 @@
 
 * [Introduction](README.md)
 
-## Setting up Pre-Reqs
+## Flying Under IAM
 
-### Setting up the Student Virtual Machine
+* [Introduction on IAM](documentation/01-introduction.md)
+* [Possible Misconfigurations in IAM](documentation/02-misconfigurations.md)
+* [Exploiting the misconfigurations](documentation/03-exploitation.md)
 
-* [Setup the Student Virtual Machine](docs/1.md)
+## References
+
+* [References](documentation/resources.md)
+
+## About me
+
+* [Bhagavan Bollina](about-me.md)
+
